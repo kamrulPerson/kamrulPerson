@@ -76,13 +76,13 @@ Web Development  ·  AI / ML  ·  Cloud / DevOps  ·  Cybersecurity  ·  Mobile 
 
 ## Featured Projects
 
-### [TouristCompassRangamiti](https://github.com/Mohammadkamrulhassan/TouristCompassRangamiti)
+### [TouristCompassRangamiti](https://github.com/KamrulPerson/TouristCompassRangamiti)
 A Java-based tourist compass application for Rangamati — helping travelers navigate destinations with ease.
 
-### [CompetitiveProgramming](https://github.com/Mohammadkamrulhassan/CompetitiveProgramming)
+### [CompetitiveProgramming](https://github.com/KamrulPerson/CompetitiveProgramming)
 My personal C++ solutions library — contest problems, practice sets, and algorithmic patterns across platforms.
 
-### [RMSTUSC](https://github.com/Mohammadkamrulhassan/RMSTUSC) · [RMSTUSC03](https://github.com/Mohammadkamrulhassan/RMSTUSC03)
+### [RMSTUSC](https://github.com/KamrulPerson/RMSTUSC) · [RMSTUSC03](https://github.com/KamrulPerson/RMSTUSC03)
 Web projects built with HTML — exploring frontend fundamentals and real-world UI design.
 
 ---
@@ -91,11 +91,11 @@ Web projects built with HTML — exploring frontend fundamentals and real-world 
 
 <div align="center">
 
-![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammadkamrulhassan&show_icons=true&theme=tokyonight&hide_border=true)
+![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamrulPerson&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadkamrulhassan&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamrulPerson&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammadkamrulhassan&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KamrulPerson&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -105,7 +105,7 @@ Web projects built with HTML — exploring frontend fundamentals and real-world 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Kamrul%20Hassan-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammadkamrulhassan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Kamrul%20Hassan-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/KamrulPerson/)
 [![YouTube](https://img.shields.io/badge/YouTube-%40MDKAMRULHASSAN-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@MDKAMRULHASSAN)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/K.H4554N)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
@@ -118,6 +118,6 @@ Web projects built with HTML — exploring frontend fundamentals and real-world 
 
 *"Always learning. Always building. Always competing."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Mohammadkamrulhassan&color=blue&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=KamrulPerson&color=blue&style=flat-square)
 
 </div>
